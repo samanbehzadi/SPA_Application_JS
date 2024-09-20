@@ -1,0 +1,11 @@
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: .3rem;
+    border-color: red;
+    background-color: rgb(214, 86, 86);
+    height: 300px;
+    color: white;
+    word-spacing: 2px;
+}
